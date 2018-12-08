@@ -1,2 +1,4 @@
-# Jupyter_Notebooks
-Jupyter Notebooks written in Python for physics and mathematics
+Notebooks can also be viewed and downloaded from the nbviwer web application.
+
+
+
